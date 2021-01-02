@@ -5,3 +5,4 @@
 /SimpleMicroservice/UserService/bin/Debug/netcoreapp3.1
 /SimpleMicroservice/UserService/obj
 /SimpleMicroservice/.vs/SimpleMicroservice/v16/Server/sqlite3/db.lock
+/SimpleMicroservice/UserService/UserService.csproj.user
